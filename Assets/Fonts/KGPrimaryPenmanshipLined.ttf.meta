@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 954a250e0f2bc44409723ec6ccb383d9
+timeCreated: 1469295504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 3
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontNames:
+  - KG Primary Penmanship Lined
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
